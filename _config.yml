@@ -1,0 +1,28 @@
+name: Revolve
+favicon: null
+layout_spectrum: 0.10093382420018315
+typography_spectrum: 0.7208480436820537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7811506546568125
+  lightness: 0.20999671868048608
+  saturation: 0.3608540929853916
+  rhythmicContrast: 0.00015636533498764038
+purpose: []
